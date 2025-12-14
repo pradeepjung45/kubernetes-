@@ -137,8 +137,4 @@ kubectl port-forward svc/kuber-service 3000:3000
 - The application is a Next.js website running on port 3000
 - Configured for local development with Minikube/Kind
 - Uses `imagePullPolicy: IfNotPresent` to work with locally built images
-
----
-
-**Practice Date**: December 2025  
 **Technologies**: Kubernetes, Docker, Next.js
